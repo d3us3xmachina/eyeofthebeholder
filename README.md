@@ -1,5 +1,7 @@
 # eyeofthebeholder
 
+DISCLAIMER: I am not a professional software developer. This is hobbyist code; you get hobbyist level robustness and security. use at your own risk.
+
 These are the python files for the robotic diceroller featured in my youtube video:
 https://youtu.be/l3omaHxsk84
 
